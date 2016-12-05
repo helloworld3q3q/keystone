@@ -35,6 +35,7 @@ templates/
 lib/
 server/
 npm-debug.log
+README.*
 README.md
 
 # BUCK
