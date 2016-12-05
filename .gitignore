@@ -37,7 +37,7 @@ server/
 npm-debug.log
 README.*
 README.md
-
+*.md
 # BUCK
 buck-out/
 \.buckd/
